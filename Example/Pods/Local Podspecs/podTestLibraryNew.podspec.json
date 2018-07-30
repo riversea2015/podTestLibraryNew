@@ -1,0 +1,29 @@
+{
+  "name": "podTestLibraryNew",
+  "version": "0.1.0",
+  "summary": "test lib of podTestLibraryNew.",
+  "description": "test lib of podTestLibraryNew, test lib of podTestLibraryNew.",
+  "homepage": "https://github.com/riversea2015/podTestLibraryNew",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "riversea2015": "hehai_dev@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/riversea2015/podTestLibraryNew.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podTestLibraryNew/Classes/**/*",
+  "resource_bundles": {
+    "podTestLibraryNew": [
+      "podTestLibraryNew/Assets/*.{png,jpg}"
+    ]
+  },
+  "public_header_files": "podTestLibraryNew/Classes/**/*.h",
+  "frameworks": "UIKit"
+}
