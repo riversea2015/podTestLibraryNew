@@ -1,18 +1,18 @@
 //
-//  RSPodTestLibraryNewVCViewController.m
-//  ttttt_Example
+//  RSPodTestLibraryNewVC.m
+//  podTestLibraryNew
 //
 //  Created by hehai on 17/01/2018.
 //  Copyright © 2018 riversea2015. All rights reserved.
 //
 
-#import "RSPodTestLibraryNewVCViewController.h"
+#import "RSPodTestLibraryNewVC.h"
 
-@interface RSPodTestLibraryNewVCViewController ()
+@interface RSPodTestLibraryNewVC ()
 
 @end
 
-@implementation RSPodTestLibraryNewVCViewController
+@implementation RSPodTestLibraryNewVC
 
 - (void)viewDidLoad {
     [super viewDidLoad];

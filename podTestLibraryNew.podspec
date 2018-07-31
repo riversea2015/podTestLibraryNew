@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podTestLibraryNew'
-  s.version          = '0.1.0'
-  s.summary          = 'test lib of podTestLibraryNew.'
+  s.version          = '0.1.1'
+  s.summary          = 'One pod for RSSpecs.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-test lib of podTestLibraryNew, test lib of podTestLibraryNew.
+Test lib of podTestLibraryNew, one pod for RSSpecs.
                        DESC
 
   s.homepage         = 'https://github.com/riversea2015/podTestLibraryNew'
